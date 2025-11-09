@@ -2,14 +2,19 @@
 ## Proximal Policy Optimization (PPO) Model
 
 ---
-![lunar_lander](https://github.com/user-attachments/assets/e78390d3-ece7-4606-a2c7-dc6a324629f9)  
-[Image source](https://www.google.com/url?q=https%3A%2F%2Fgymnasium.farama.org%2Fenvironments%2Fbox2d%2Flunar_lander)
+
+
+https://github.com/user-attachments/assets/de4d924c-af1b-469f-a99c-2915d95c6525
+
+ 
+[View the model repo on Hugging Face](https://huggingface.co/r-scoville/lunar-lander-ppo)
 
 ### About
 This Colab notebook creates, trains, and evaluates a deep reinforcement learning (RL) agent.
 - Environment: Lunar Lander v2
 - RL library: Stable-Baselines3
 - Model: Proximal Policy Optimization
+- Mean reward: 263.64 +/- 15.91
 
 ### References
 - [Hugging Face: Deep Reinforcement Learning Course, Unit 1](https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Flearn%2Fdeep-rl-course%2Funit1%2Fhands-on)
