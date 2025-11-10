@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/de4d924c-af1b-469f-a99c-2915d95c6525
 [View the model repo on Hugging Face](https://huggingface.co/r-scoville/lunar-lander-ppo)
 
 ### About
-This Colab notebook creates, trains, and evaluates a deep reinforcement learning (RL) agent.
+This script creates, trains, and evaluates a deep reinforcement learning (RL) agent with step-by-step explanation.
 - Environment: Lunar Lander v2
 - RL library: Stable-Baselines3
 - Model: Proximal Policy Optimization
