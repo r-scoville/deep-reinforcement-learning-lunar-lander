@@ -14,7 +14,7 @@ This script creates, trains, and evaluates a deep reinforcement learning (RL) ag
 - Environment: Lunar Lander v2
 - RL library: Stable-Baselines3
 - Model: Proximal Policy Optimization
-- Mean reward: 263.64 +/- 15.91
+- Mean reward: 263.64 +/- 15.91 (Lunar Lander's RL problem resolution is 200)
 
 ### References
 - [Hugging Face: Deep Reinforcement Learning Course, Unit 1](https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Flearn%2Fdeep-rl-course%2Funit1%2Fhands-on)
